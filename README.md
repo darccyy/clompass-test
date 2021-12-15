@@ -85,6 +85,5 @@ Simplified file tree:
         │   └── ... #
         ├── scss/ # Styles in scss
         │   ├── ... # Corresponding to js folder
-        │   └── App.scss # For main styles
         └── css/ # Compiled from scss
 ```
