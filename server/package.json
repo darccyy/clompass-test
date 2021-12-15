@@ -1,8 +1,8 @@
 {
-  "name": "react-express-template-server",
+  "name": "clompass-server",
   "version": "1.0.0",
   "private": true,
-  "description": "Server for React Express Template",
+  "description": "Server for Clompass",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.3",

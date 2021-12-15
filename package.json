@@ -1,7 +1,7 @@
 {
-  "name": "react-express-template",
+  "name": "clompass",
   "version": "1.0.0",
-  "description": "Basic template for React in Express with Heroku support",
+  "description": "Clompass",
   "main": "server/server.js",
   "engines": {
     "node": "16.13.0"
@@ -15,15 +15,7 @@
     "start": "cd server && npm run start:prod",
     "start:dev": "concurrently \"cd client && npm run start\" \"cd server && npm run start\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/darccyy/react-express-template.git"
-  },
   "keywords": [],
   "author": "darccyy",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/darccyy/react-express-template/issues"
-  },
-  "homepage": "https://github.com/darccyy/react-express-template#readme"
+  "license": "MIT"
 }
