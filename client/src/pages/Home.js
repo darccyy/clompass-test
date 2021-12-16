@@ -2,7 +2,7 @@ import { Component } from "react";
 
 import "../css/Home.min.css";
 
-import Message from "../js/Message";
+import Tasks from "../js/Tasks";
 
 class Home extends Component {
   render() {
@@ -12,7 +12,7 @@ class Home extends Component {
         <h1>Home Page</h1>
 
         {/* Display server message */}
-        <Message />
+        <Tasks />
       </div>
     );
   }
